@@ -20,7 +20,7 @@ PixelCanvas.io minimap for everyone
 
 
 //window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LowQuality/Minimap/master';
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Vasco-Pixel/minimapa/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Gremio-Pixel/minimapa/master';
 
 
 cssStyle = `
